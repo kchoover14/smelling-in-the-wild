@@ -7,7 +7,7 @@ Olfactory research almost exclusively measures ability in controlled lab setting
 
 Hoover, K.C. (2020). Field-testing olfactory ability to understand human olfactory ecology. *American Journal of Human Biology*, 32(5), e23411. DOI: [10.1002/ajhb.23411](https://doi.org/10.1002/ajhb.23411)
 
-### Portfolio page
+### Portfolio Page
 
 The [portfolio page](https://kchoover14.github.io/smelling-in-the-wild/) includes a full project narrative, key findings, and figures. 
 
