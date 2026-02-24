@@ -19,3 +19,7 @@ The [portfolio page](https://kchoover14.github.io/smelling-in-the-wild/) include
 ### Expertise
 
 Designing and reanalyzing field studies that test real-world behavior; applying multiple analytical frameworks to assess robustness of findings; building reproducible workflows that extend and modernize published research.
+
+### License
+Data, figures, and written content © Kara C. Hoover, licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Code and scripts © Kara C. Hoover, licensed under the [MIT License](LICENSE).
