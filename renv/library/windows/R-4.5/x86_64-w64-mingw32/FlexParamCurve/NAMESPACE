@@ -1,7 +1,0 @@
-import(nlme)
-importFrom("stats", "anova", "coef", "lm", "na.omit", "nls", "nls.control", "optim", "pf", "resid", "sortedXyData")
-importFrom("utils", "relist")
-
-export(SSposnegRichards, modpar, pn.mod.compare, pn.modselect.step)
-export(posnegRichards.eqn, change.pnparameters, extraF, extraF.nls)
-export(get.mod)
