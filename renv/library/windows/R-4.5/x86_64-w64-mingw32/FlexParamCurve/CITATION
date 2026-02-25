@@ -1,0 +1,11 @@
+citHeader("To cite the FlexParamCurve package in publications use:")
+bibentry(bibtype =  "Article", 
+    author = c(as.person("Stephen A. Oswald"), as.person("Ian C. T. Nisbet"), as.person("Andre Chiaradia"),
+        as.person("Jennifer M. Arnold")), title = "FlexParamCurve: R package for flexible fitting of nonlinear parametric curves", 
+    journal = "Methods in Ecology and Evolution", year = 2012, 
+    volume = 3, pages = "1073--1077", 
+    doi = "10.1111/j.2041-210X.2012.00231.x",
+    textVersion = paste("Oswald, S.A., Nisbet I.C.T., Chiaradia, A. and Arnold, J.M. (2012)", 
+        "FlexParamCurve: R package for flexible fitting of nonlinear parametric curves", 
+        "Methods in Ecology and Evolution. 3:1073--1077"))
+citFooter("As FlexParamCurve is continually evolving, you may want to cite its version number. Find it with 'help(package=FlexParamCurve)'.")

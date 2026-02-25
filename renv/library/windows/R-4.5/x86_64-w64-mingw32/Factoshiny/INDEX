@@ -1,0 +1,21 @@
+CAshiny                 Correspondance Analysis (CA) with Factoshiny
+FAMDshiny               Factor Analysis for Mixed Data with Factoshiny
+Factoshiny              Choose the Factoshiny function to perform the
+                        analysis
+Factoshiny-package      Perform classical factorial analysis from
+                        FactoMineR within a Shiny app ~~ Factoshiny ~~
+HCPCshiny               Hierarchical Clustering on Principal Components
+                        (HCPC) with Factoshiny
+MCAshiny                Multiple Correspondence Analysis (MCA) with
+                        Factoshiny
+MFAshiny                Multiple Factor Analysis (MFA) with Factoshiny
+PCAshiny                Principal Component Analysis (PCA) with
+                        FactoShiny
+catdesshiny             Categories description
+condesshiny             Continuous variable description
+print.CAshiny           Print the CAshiny results
+print.FAMDshiny         Print the FAMDshiny results
+print.HCPCshiny         Print the HCPCshiny results
+print.MCAshiny          Print the MCAshiny results
+print.MFAshiny          Print the MFAshiny results
+print.PCAshiny          Print the PCAshiny results

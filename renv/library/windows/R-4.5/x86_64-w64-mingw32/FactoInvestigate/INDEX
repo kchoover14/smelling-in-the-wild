@@ -1,0 +1,23 @@
+FactoInvestigate-package
+                        Automatic Description of Factorial Analysis
+Investigate             Resume factorial Analysis
+classif                 Classification description
+createRmd               Create Rmarkdown file
+description             Factorial dimensions description
+dimActive               Number of active dimensions
+dimRestrict             Significant dimensions identification
+eigenRef                Reference eigen value
+factoGraph              Factorial graphs
+getParam                Factorial parameters
+graphCA                 Correspondance Analysis factor map
+graphHab                Colored factor graph
+graphInd                Individuals factor map
+graphSup                Supplementary variables factor map
+graphVar                Variables factor map
+inertiaDistrib          Inertia distribution analysis
+outliers                Outliers detection
+readRmd                 Read Rmarkdown file
+scriptRmd               File script
+selection               Graphical elements selection
+whichFacto              Analysis class
+writeRmd                Write Rmarkdown file

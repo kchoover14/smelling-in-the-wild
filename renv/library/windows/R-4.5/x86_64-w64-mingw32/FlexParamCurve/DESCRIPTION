@@ -1,0 +1,26 @@
+Package: FlexParamCurve
+Title: Tools to Fit Flexible Parametric Curves
+Version: 1.5-7
+Date: 2025-08-26
+Authors@R: c(person("Stephen", "Oswald", role = c("aut", "cre"),
+		     email = "steve.oswald@psu.edu"))
+Author: Stephen Oswald [aut, cre]
+Maintainer: Stephen Oswald <steve.oswald@psu.edu>
+Description: Model selection tools and 'selfStart' functions to fit parametric curves in 'nls', 'nlsList' and 'nlme' frameworks.
+License: GPL-2
+Encoding: UTF-8
+URL: https://pennstate.academia.edu:443/SteveOswald
+Depends: nlme
+Imports: stats, utils
+LazyData: true
+NeedsCompilation: no
+RoxygenNote: 6.1.1
+Packaged: 2025-08-26 17:03:49 UTC; sao10
+Repository: CRAN
+Date/Publication: 2025-08-26 17:40:02 UTC
+Built: R 4.5.2; ; 2026-01-23 02:48:23 UTC; windows
+RemoteType: standard
+RemotePkgRef: FlexParamCurve
+RemoteRef: FlexParamCurve
+RemoteRepos: https://cran.rstudio.com
+RemoteSha: 1.5-7
