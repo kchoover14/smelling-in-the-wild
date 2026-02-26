@@ -4,6 +4,8 @@ library(tidyr)
 
 ###################################### DATA
 # to protect privacy, ages have been aggregated into categories
+#raw data not shared due to PII
+#original analysis used field-methods-xlsx
 field=read_xlsx('data-raw data.xlsx', sheet='field')
 lab=read_xlsx('data-raw data.xlsx', sheet='lab')
 
@@ -73,8 +75,8 @@ free <- df |>
 
 
 ###################################### SAVE DATA
-write.csv(forced, "data-forced.csv", row.names = FALSE)
-write.csv(free, "data-free.csv", row.names = FALSE)
+write.csv(forced, "revised-data-forced.csv", row.names = FALSE)
+write.csv(free, "revised-data-free.csv", row.names = FALSE)
 
 
 

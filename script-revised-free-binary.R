@@ -90,7 +90,7 @@ fviz_ca_biplot(ca_result,
         plot.caption = element_text(size = 10, color = "black")
     )
 
-ggsave("free-ca.png",
+ggsave("revised-free-ca.png",
        plot = last_plot(),
        width = 6,
        height = 6,
@@ -100,7 +100,7 @@ cat("\nCA plot saved!\n")
 
 
 #### save
-write.csv(data_long, "data-ca.csv")
+write.csv(data_long, "revised-data-ca.csv")
 cat("Analysis dataset saved to data-ca.csv\n")
 
 
@@ -223,7 +223,7 @@ accuracy |>
         text = element_text(size = 12),
         axis.text = element_text(color = "black", size = 12)
     )
-ggsave("free-accuracy.png",
+ggsave("revised-free-accuracy.png",
        plot = last_plot(),
        width = 8,
        height = 8,
@@ -378,7 +378,7 @@ consistency |>
         axis.text = element_text(color = "black", size = 12,),
         plot.caption = element_text(size = 10, color = "#2C3E50")
     )
-ggsave("free-consistency.png",
+ggsave("revised-free-consistency.png",
        plot = last_plot(),
        width = 8,
        height = 8,
@@ -527,7 +527,7 @@ direction_analysis |>
         legend.position = "top",
         plot.caption = element_text(size = 9, color = "black")
     )
-ggsave("free-direction.png",
+ggsave("revised-free-direction.png",
        plot = last_plot(),
        width = 5, height = 4, units = "in", dpi = 300)
 

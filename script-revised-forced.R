@@ -101,7 +101,7 @@ forced |>
         text = element_text(size = 12),
         axis.text = element_text(color = "black", size = 12)
     )
-ggsave("forced-accuracy.png",
+ggsave("revised-forced-accuracy.png",
        plot = last_plot(),
        width = 8,
        height = 8,
@@ -212,7 +212,7 @@ consistency |>
     axis.text = element_text(color = "black", size = 12),
     plot.caption = element_text(size = 10, color = "#2C3E50")
   )
-ggsave("forced-consistency.png",
+ggsave("revised-forced-consistency.png",
        plot = last_plot(),
        width = 8,
        height = 8,
@@ -357,7 +357,7 @@ direction_analysis |>
         legend.position = "top",
         plot.caption = element_text(size = 9, color = "black")
     )
-ggsave("forced-direction.png",
+ggsave("revised-forced-direction.png",
        plot = last_plot(),
        width = 5, height = 4, units = "in", dpi = 300)
 

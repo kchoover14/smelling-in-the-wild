@@ -203,7 +203,7 @@ ggplot(cain_summary, aes(x = Odor, y = pct, fill = Cain)) +
         axis.text = element_text(color = "black", size = 12),
         legend.position = "top"
     )
-ggsave("free-accuracy-cain.png",
+ggsave("revised-free-accuracy-cain.png",
        plot = last_plot(),
        width = 8,
        height = 8,
