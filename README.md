@@ -8,6 +8,10 @@ Hoover, K.C. (2020). Field-testing olfactory ability to understand human olfacto
 
 *Note: data-field methods.xlsx and data-cain.xlsx were updated in 2026 to remove actual ages and, in the case of field methods, replace with ranges to prevent any possibility of reidentification of individuals.*
 
+## Repository Contents
+
+This repo contains two sets of files. All files prefixed `revised-` are revised scripts and figures from the original publication. Revisions offer a fully reproducible end-to-end pipeline from raw data through ETL to results — including data cleaning and wrangling scripts (revised from originals or created where none existed), code modernization, and the addition of environment management to future-proof the revised scripts. All other files are associated with the original publication. Occasionally, an original script may be updated with annotations for clarity; the commit history will note any such changes.
+
 ## Portfolio Page
 
 The [portfolio page](https://kchoover14.github.io/smelling-in-the-wild/) includes a full project narrative, key findings, and figures.
