@@ -40,6 +40,18 @@ body.eggplant {
   --text-dark:      #2C2C2C;
 }
 
+body.eggplant #TOC .nav-link.active,
+body.eggplant #TOC .nav-link:hover,
+body.eggplant .sidebar-item-text.sidebar-link.active,
+body.eggplant .toc-active {
+  color: #45733E !important;
+  border-left-color: #45733E !important;
+}
+
+body.eggplant #TOC a {
+  color: var(--primary);
+}
+
 // ============================================================
 // SHARED STYLES - use variables throughout
 // ============================================================
