@@ -6,7 +6,7 @@ Olfactory research almost exclusively measures ability in controlled lab setting
 
 Hoover, K.C. (2020). Field-testing olfactory ability to understand human olfactory ecology. *American Journal of Human Biology*, 32(5), e23411. DOI: [10.1002/ajhb.23411](https://doi.org/10.1002/ajhb.23411)
 
-*Note:data-field methods.xlsx and data-cain.xlsx were updated in 2026 to remove actual ages and, in the case of field methods, replace with ranges to prevent any possibility of reidentification of individuals.*
+*Note: data-field methods.xlsx and data-cain.xlsx were updated in 2026 to remove actual ages and, in the case of field methods, replace with ranges to prevent any possibility of reidentification of individuals.*
 
 ## Portfolio Page
 
